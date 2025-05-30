@@ -1,0 +1,14 @@
+/Users/nikitapapko/project/weather_project/server/Persistence/bin/Debug/net8.0/Persistence.deps.json
+/Users/nikitapapko/project/weather_project/server/Persistence/bin/Debug/net8.0/Persistence.runtimeconfig.json
+/Users/nikitapapko/project/weather_project/server/Persistence/bin/Debug/net8.0/Persistence.dll
+/Users/nikitapapko/project/weather_project/server/Persistence/bin/Debug/net8.0/Persistence.pdb
+/Users/nikitapapko/project/weather_project/server/Persistence/obj/Debug/net8.0/Persistence.csproj.AssemblyReference.cache
+/Users/nikitapapko/project/weather_project/server/Persistence/obj/Debug/net8.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikitapapko/project/weather_project/server/Persistence/obj/Debug/net8.0/Persistence.AssemblyInfoInputs.cache
+/Users/nikitapapko/project/weather_project/server/Persistence/obj/Debug/net8.0/Persistence.AssemblyInfo.cs
+/Users/nikitapapko/project/weather_project/server/Persistence/obj/Debug/net8.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/nikitapapko/project/weather_project/server/Persistence/obj/Debug/net8.0/Persistence.dll
+/Users/nikitapapko/project/weather_project/server/Persistence/obj/Debug/net8.0/refint/Persistence.dll
+/Users/nikitapapko/project/weather_project/server/Persistence/obj/Debug/net8.0/Persistence.pdb
+/Users/nikitapapko/project/weather_project/server/Persistence/obj/Debug/net8.0/Persistence.genruntimeconfig.cache
+/Users/nikitapapko/project/weather_project/server/Persistence/obj/Debug/net8.0/ref/Persistence.dll

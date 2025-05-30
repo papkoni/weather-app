@@ -1,0 +1,15 @@
+/Users/nikitapapko/project/weather_project/server/Application/bin/Debug/net8.0/Application.deps.json
+/Users/nikitapapko/project/weather_project/server/Application/bin/Debug/net8.0/Application.dll
+/Users/nikitapapko/project/weather_project/server/Application/bin/Debug/net8.0/Application.pdb
+/Users/nikitapapko/project/weather_project/server/Application/bin/Debug/net8.0/Persistence.dll
+/Users/nikitapapko/project/weather_project/server/Application/bin/Debug/net8.0/Persistence.pdb
+/Users/nikitapapko/project/weather_project/server/Application/obj/Debug/net8.0/Application.csproj.AssemblyReference.cache
+/Users/nikitapapko/project/weather_project/server/Application/obj/Debug/net8.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikitapapko/project/weather_project/server/Application/obj/Debug/net8.0/Application.AssemblyInfoInputs.cache
+/Users/nikitapapko/project/weather_project/server/Application/obj/Debug/net8.0/Application.AssemblyInfo.cs
+/Users/nikitapapko/project/weather_project/server/Application/obj/Debug/net8.0/Application.csproj.CoreCompileInputs.cache
+/Users/nikitapapko/project/weather_project/server/Application/obj/Debug/net8.0/Applicat.44B5EDA2.Up2Date
+/Users/nikitapapko/project/weather_project/server/Application/obj/Debug/net8.0/Application.dll
+/Users/nikitapapko/project/weather_project/server/Application/obj/Debug/net8.0/refint/Application.dll
+/Users/nikitapapko/project/weather_project/server/Application/obj/Debug/net8.0/Application.pdb
+/Users/nikitapapko/project/weather_project/server/Application/obj/Debug/net8.0/ref/Application.dll
